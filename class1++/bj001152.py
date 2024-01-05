@@ -1,0 +1,1 @@
+print(len(t := input().strip().split()))

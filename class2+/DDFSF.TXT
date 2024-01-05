@@ -1,0 +1,31 @@
+
+     Depth 60: $${d60}
+     Depth 120: $${d120}
+     Depth 180: $${d180}
+     Depth 360: $${d360}
+     Depth 720: $${d720}
+     Depth 1440: $${d1440}
+     Depth 2880: $${d2880}
+     Depth 4320: $${d4320}
+     Depth 5760: $${d5760}
+     Depth 10080: $${d10080}
+     Depth 14400: $${d14400}
+
+
+
+     "Nam Ngum 1","Nam Ngum 2","Nam Ngum 3","Nam Ngum 4","Nam Ngum 5","Nam Leuk","Nam Lik 1","Nam Lik 1/2","Nam Mang 3","Nam Song","Nam Phay"
+
+
+
+
+     <option value="Nam Ngum 1">Nam Ngum 1</option>
+     <option value="Nam Ngum 2">Nam Ngum 2</option>
+     <option value="Nam Ngum 3">Nam Ngum 3</option>
+     <option value="Nam Ngum 4">Nam Ngum 4</option>
+     <option value="Nam Ngum 5">Nam Ngum 5</option>
+     <option value="Nam Leuk">Nam Leuk</option>
+     <option value="Nam Lik 1">Nam Lik 1</option>
+     <option value="Nam Lik 1/2">Nam Lik 1/2</option>
+     <option value="Nam Mang 3">Nam Mang 3</option>
+     <option value="Nam Song">Nam Song</option>
+     <option value="Nam Phay">Nam Phay</option>
